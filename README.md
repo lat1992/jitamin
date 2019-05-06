@@ -10,10 +10,7 @@ Jitamin (pronounced /ˈdʒɪtəmɪn/) is a free software written in PHP, intende
 
 **Jitamin** is inspired by vitamin. It also stands for JIT(Just In Time) and `Min`(The pinyin of `敏`).
 
-[简体中文](https://github.com/jitamin/jitamin/blob/master/README-zh_CN.md)
-
-
-![jitamin](http://jitamin.com/img/screenshot.png?v1)
+[简体中文](https://github.com/lat1992/jitamin/blob/master/README-zh_CN.md)
 
 ## Features
 
@@ -31,7 +28,7 @@ Jitamin (pronounced /ˈdʒɪtəmɪn/) is a free software written in PHP, intende
 * Support third part integration
 * Support plugins
 
-[Change Logs](https://github.com/jitamin/jitamin/blob/master/ChangeLog.md)
+[Change Logs](https://github.com/lat1992/jitamin/blob/master/ChangeLog.md)
 
 ## Requirements
 
