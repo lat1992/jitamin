@@ -228,7 +228,8 @@ class TaskModel extends Model
             return 100;
         }
 
-        return isset($task['progress']) && $task['progress'] ?: 0;
+        if (isset($task['progress'])) return $task['progress'];
+        return 0;
     }
 
     /**
